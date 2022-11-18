@@ -1,5 +1,10 @@
+__precompile__(true)
+
 module IsingMagneticFields
 
-greet() = print("Hello World!")
+export setAll
+function setAll(g, all)
+    g .= all
+end
 
 end # module IsingMagneticFields
