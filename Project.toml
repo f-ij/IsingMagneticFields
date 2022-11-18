@@ -1,0 +1,4 @@
+name = "IsingMagneticFields"
+uuid = "9aec9286-181b-460b-90f7-2f3d4ce96a7d"
+authors = ["Fabian IJpelaar <87425229+f-ij@users.noreply.github.com>"]
+version = "0.1.0"
